@@ -1,0 +1,10 @@
+{
+  "project": "Digital Society Sandbox",
+  "simulation_only": true,
+  "passed": true,
+  "returncode": 0,
+  "elapsed_seconds": 3.171,
+  "stdout": "..........                                                               [100%]\n10 passed in 2.87s\n",
+  "stderr": "",
+  "disclaimer": "Simulation tests do not constitute real-world validation."
+}

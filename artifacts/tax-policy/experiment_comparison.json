@@ -1,0 +1,236 @@
+{
+  "policies": {
+    "Tax 5%": [
+      {
+        "seed": 1,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.76,
+          "employed_count": 76,
+          "average_income": 2.052,
+          "median_savings": 26.21070966755557,
+          "business_count": 20,
+          "transaction_count": 122565,
+          "consumption": 125466.88,
+          "ledger_volume": 460221.91
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 2,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.81,
+          "employed_count": 81,
+          "average_income": 1.976,
+          "median_savings": 43.15964877005058,
+          "business_count": 20,
+          "transaction_count": 121248,
+          "consumption": 125336.88,
+          "ledger_volume": 455474.5
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 3,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.79,
+          "employed_count": 79,
+          "average_income": 2.0773333333333337,
+          "median_savings": 7.46302680521388,
+          "business_count": 20,
+          "transaction_count": 121248,
+          "consumption": 124761.91,
+          "ledger_volume": 458703.13
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 4,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.8,
+          "employed_count": 80,
+          "average_income": 1.9886666666666668,
+          "median_savings": 38.77001667224266,
+          "business_count": 20,
+          "transaction_count": 121877,
+          "consumption": 126825.81,
+          "ledger_volume": 460140.39
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 5,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.8,
+          "employed_count": 80,
+          "average_income": 2.09,
+          "median_savings": 8.339398500544934,
+          "business_count": 20,
+          "transaction_count": 122051,
+          "consumption": 126640.66,
+          "ledger_volume": 461039.13
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      }
+    ],
+    "Tax 15%": [
+      {
+        "seed": 1,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.77,
+          "employed_count": 77,
+          "average_income": 1.7793333333333334,
+          "median_savings": 0.0,
+          "business_count": 20,
+          "transaction_count": 118365,
+          "consumption": 117475.28,
+          "ledger_volume": 464458.58
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 2,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.78,
+          "employed_count": 78,
+          "average_income": 1.6773333333333336,
+          "median_savings": 0.0,
+          "business_count": 20,
+          "transaction_count": 116452,
+          "consumption": 119267.47,
+          "ledger_volume": 459560.07
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 3,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.79,
+          "employed_count": 79,
+          "average_income": 1.7793333333333334,
+          "median_savings": 0.0,
+          "business_count": 20,
+          "transaction_count": 116792,
+          "consumption": 116997.64,
+          "ledger_volume": 462690.19
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 4,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.8,
+          "employed_count": 80,
+          "average_income": 1.5866666666666667,
+          "median_savings": 0.0,
+          "business_count": 20,
+          "transaction_count": 116870,
+          "consumption": 119781.67,
+          "ledger_volume": 463235.95
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      },
+      {
+        "seed": 5,
+        "days": 365,
+        "final_state": {},
+        "metrics": {
+          "population": 100,
+          "employment": 0.79,
+          "employed_count": 79,
+          "average_income": 1.6773333333333336,
+          "median_savings": 0.0,
+          "business_count": 20,
+          "transaction_count": 116873,
+          "consumption": 118838.84,
+          "ledger_volume": 464080.54
+        },
+        "issues": [],
+        "snapshots": [],
+        "error": null
+      }
+    ]
+  },
+  "summary": {
+    "Tax 5%": {
+      "average_income": 2.0368000000000004,
+      "business_count": 20.0,
+      "consumption": 125806.428,
+      "employed_count": 79.2,
+      "employment": 0.792,
+      "ledger_volume": 459115.81200000003,
+      "median_savings": 24.788560083121524,
+      "population": 100.0,
+      "transaction_count": 121797.8
+    },
+    "Tax 15%": {
+      "average_income": 1.7,
+      "business_count": 20.0,
+      "consumption": 118472.18000000001,
+      "employed_count": 78.6,
+      "employment": 0.786,
+      "ledger_volume": 462805.066,
+      "median_savings": 0.0,
+      "population": 100.0,
+      "transaction_count": 117070.4
+    }
+  },
+  "deltas": {
+    "Tax 15%": {
+      "average_income": -0.33680000000000043,
+      "business_count": 0.0,
+      "consumption": -7334.247999999992,
+      "employed_count": -0.6000000000000085,
+      "employment": -0.006000000000000005,
+      "ledger_volume": 3689.253999999957,
+      "median_savings": -24.788560083121524,
+      "population": 0.0,
+      "transaction_count": -4727.400000000009
+    }
+  },
+  "disclaimer": "Simulation results only; not a prediction of real-world policy or society."
+}

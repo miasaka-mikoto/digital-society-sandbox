@@ -1,0 +1,4 @@
+# Digital Society Sandbox deliberately runs on the Python standard library.
+# Optional developer tools:
+pytest>=8.0
+pyinstaller>=6.0

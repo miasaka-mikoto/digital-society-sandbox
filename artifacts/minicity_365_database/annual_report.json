@@ -1,0 +1,33 @@
+{
+  "title": "Digital Society Sandbox — Annual Simulation Report",
+  "disclaimer": "Simulation results only; not a prediction of real-world policy or society.",
+  "seed_count": 1,
+  "days": 365,
+  "aggregate": {
+    "average_income": 2.888,
+    "business_count": 20.0,
+    "consumption": 128536.37000000001,
+    "employed_count": 78.0,
+    "employment": 0.78,
+    "ledger_volume": 464593.56,
+    "median_savings": 26.647130014198527,
+    "population": 100.0,
+    "transaction_count": 122932.0
+  },
+  "per_seed": [
+    {
+      "seed": 42,
+      "population": 100,
+      "employment": 0.78,
+      "employed_count": 78,
+      "average_income": 2.888,
+      "median_savings": 26.647130014198527,
+      "business_count": 20,
+      "transaction_count": 122932,
+      "consumption": 128536.37000000001,
+      "ledger_volume": 464593.56,
+      "error": null
+    }
+  ],
+  "health": {}
+}

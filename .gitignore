@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+artifacts/*.sqlite
+artifacts/*.zip
+artifacts/minicity_365_database/simulation.sqlite
+*.log
